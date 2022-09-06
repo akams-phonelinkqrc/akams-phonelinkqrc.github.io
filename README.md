@@ -1,6 +1,6 @@
 # www.aka.ms/phonelinkqrc
 
-[![www.aka.ms/phonelinkqrc](gett-starteed.png)](https://github.com/akams-phonelinkqrc/akams-phonelinkqrc.github.io)
+[![www.aka.ms/phonelinkqrc](gett-starteed.png)](https://icncomputer.com/aka-ms-phonelinkqrc/)
 
 [www.aka.ms/phonelinkqrc](https://github.com/akams-phonelinkqrc/akams-phonelinkqrc.github.io/) - One of the most important features added to Windows is connecting PCs to smartphones via the dedicated app. But there is a procedure that you must follow for the same.
 
